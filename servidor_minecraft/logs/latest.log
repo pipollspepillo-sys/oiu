@@ -1,0 +1,138 @@
+[22:10:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:10:31] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:10:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:10:31] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[22:10:31] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_482, running on Linux:amd64:6.8.0-1044-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[22:10:32] [main/INFO] [FML]: Searching /workspaces/oiu/servidor_minecraft/./mods for mods
+[22:10:32] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:10:32] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:10:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:10:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:10:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:10:33] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:10:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:10:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:10:34] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:10:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:10:34] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[22:10:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[22:10:36] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[22:10:36] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[22:10:37] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[22:10:37] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[22:10:37] [Server thread/INFO] [FML]: Searching /workspaces/oiu/servidor_minecraft/./mods for mods
+[22:10:37] [Server thread/INFO] [FML]: Mod geckolib3 is missing the required element 'name'. Substituting geckolib3
+[22:10:38] [Server thread/INFO] [FML]: Forge Mod Loader has identified 10 mods to load
+[22:10:38] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[22:10:38] [Server thread/WARN] [FML]: Missing English translation for geckolib3: assets/geckolib3/lang/en_us.lang
+[22:10:38] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, battletowers, dungeonsmod, sexmod, geckolib3, jei, travelersbackpack] at CLIENT
+[22:10:38] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, battletowers, dungeonsmod, sexmod, geckolib3, jei, travelersbackpack] at SERVER
+[22:10:39] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[22:10:39] [Server thread/INFO] [FML]: Found 1177 ObjectHolder annotations
+[22:10:39] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[22:10:39] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[22:10:39] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[22:10:39] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[22:10:39] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
+[22:10:39] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
+[22:10:39] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
+[22:10:39] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
+[22:10:39] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
+[22:10:39] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
+[22:10:39] [Server thread/INFO] [FML]: Applying holder lookups
+[22:10:39] [Server thread/INFO] [FML]: Holder lookups applied
+[22:10:39] [Server thread/INFO] [FML]: Applying holder lookups
+[22:10:39] [Server thread/INFO] [FML]: Holder lookups applied
+[22:10:39] [Server thread/INFO] [FML]: Applying holder lookups
+[22:10:39] [Server thread/INFO] [FML]: Holder lookups applied
+[22:10:39] [Server thread/INFO] [FML]: Applying holder lookups
+[22:10:39] [Server thread/INFO] [FML]: Holder lookups applied
+[22:10:39] [Server thread/INFO] [FML]: Injecting itemstacks
+[22:10:39] [Server thread/INFO] [FML]: Itemstack injection complete
+[22:10:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[22:10:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[22:10:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[22:10:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[22:10:39] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[22:10:39] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2864
+[22:10:39] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[22:10:39] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:10:39] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[22:10:39] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:10:39] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:10:39] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
+[22:10:40] [Server thread/INFO] [FML]: Applying holder lookups
+[22:10:40] [Server thread/INFO] [FML]: Holder lookups applied
+[22:10:40] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.trolmastercard.sexmod.em from class com.trolmastercard.sexmod.ei
+[22:10:40] [Server thread/INFO] [FML]: Injecting itemstacks
+[22:10:40] [Server thread/INFO] [FML]: Itemstack injection complete
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.Item@643ecfef
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemSeeds@7574d4ad
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemMultiTexture@55421b8d
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemBlockSpecial@1b0e031b
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemPickaxe@2ccc9681
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemAxe@7d401cdc
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemBlock@1192c925
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemBlock@25567581
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.Item@1b31af02
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemCoal@4044589a
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemBlockSpecial@730bea0
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemCloth@4607d78b
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemBlock@6b25ef1c
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.Item@41a16eb3
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemFood@713999c2
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemFood@6fb22ae3
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemBlock@504497fa
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemBlock@5618fc1f
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemMultiTexture@6615237
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.Item@7bede4ea
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemSign@e01a26b
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemFishingRod@d108406
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemSeeds@7e2c6702
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemSeeds@5fb7ab9c
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemSword@722787b5
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.Item@677cb96e
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.Item@65859b44
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemFishFood@582dcd35
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemDye@58164e9a
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemArmor@2dcd0e41
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemArmor@7272ee51
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemArmor@1b409a79
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemArmor@5940b14e
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook ChestGenHook:chests/simple_dungeon:3
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemBlock@35c8be21
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemBlock@ac4915e
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemLilyPad@30159886
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemBlockSpecial@10e56da9
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook ChestGenHook:chests/simple_dungeon:5
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemEnderPearl@1412682c
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.Item@7de35070
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemRedstone@1de5cc88
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.Item@7c901203
+[22:10:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook ChestGenHook:chests/simple_dungeon:7
+[22:10:40] [Server thread/INFO] [sexmod]: loading up custom models...
+[22:10:40] [Server thread/INFO] [sexmod]: found 0 custom model(s)
+[22:10:40] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 10 mods
+[22:10:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[22:10:40] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[22:10:40] [Server thread/INFO] [FML]: Applying holder lookups
+[22:10:40] [Server thread/INFO] [FML]: Holder lookups applied
+[22:10:41] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@3ab74b5a)
+[22:10:41] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 495 advancements
+[22:10:41] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.WorldGenHandler:loadPosFile:403]: Battletower Positions reloaded. Lines 19, entries 6
+[22:10:41] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@3ab74b5a)
+[22:10:41] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.WorldGenHandler:loadPosFile:403]: Battletower Positions reloaded. Lines 1, entries 0
+[22:10:41] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@3ab74b5a)
+[22:10:41] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.WorldGenHandler:loadPosFile:403]: Battletower Positions reloaded. Lines 1, entries 0
+[22:10:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[22:10:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 32%
+[22:10:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.316s)! For help, type "help" or "?"
+[22:10:43] [Server thread/INFO] [FML]: Unloading dimension -1
+[22:10:43] [Server thread/INFO] [FML]: Unloading dimension 1
+[22:19:39] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[22:19:39] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 11 mods : minecraft@1.12.2,tlauncher_custom_cape_skin@1.4,dungeonsmod@@VERSION@,FML@8.0.99.99,forge@14.23.5.2859,sexmod@1.1.0,geckolib3@3.0.30,mcp@9.42,battletowers@1.6.5,jei@4.16.1.1013,travelersbackpack@1.0.35
+[22:19:40] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:19:40] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: RompOrTos[/10.254.61.10:51273] logged in with entity id 170 at (-150.3964379141522, 69.0, 310.39691864921366)
+[22:19:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: RompOrTos joined the game
+[22:20:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: RompOrTos lost connection: Disconnected
+[22:20:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: RompOrTos left the game
